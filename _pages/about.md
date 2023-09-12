@@ -12,7 +12,9 @@ Hello！My name is Zeyu Luan. I am a Ph.D. student in Computer Science from Tsin
 
 My research interests inlucde Traffic Engineering (TE), Software-Defined Networking (SDN), Programmable Data Plane, and Machine Learning for Networking.
 
-I recieved my Bachelor's and Master's Degrees from Tianjin University in 2015 and 2018, respectively. 
+I recieved my Bachelor's and Master's Degrees from Tianjin University in 2015 and 2018, respectively.
+
+I am expected to be graduated in June, 2024 and look for a PostDoc position. Please download my [CV]().
 
 
 Publications
