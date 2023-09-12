@@ -82,7 +82,7 @@ analytics:
 author:
   name             : # "Zeyu Luan"
   avatar           : "zeyuluan.png"
-  bio              : "Ph.D. Student at Tsinghua University"
+  bio              : "Ph.D. Student, Tsinghua University"
   location         : "Shenzhen, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # "academicpages"
+  github           : "https://github.com/zyluan"
   google_plus      :
   keybase          :
   instagram        :
