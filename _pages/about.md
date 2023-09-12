@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, My name is Zeyu Luan. I am a Ph.D. student in Computer Science from Tsinghua University, advised by Professor Yong Jiang.
+Hello！My name is Zeyu Luan. I am a Ph.D. student in Computer Science from Tsinghua University, advised by Professor Yong Jiang.
 
 My research interests inlucde Traffic Engineering (TE), Software-Defined Networking (SDN), Programmable Data Plane, and Machine Learning for Networking.
 
