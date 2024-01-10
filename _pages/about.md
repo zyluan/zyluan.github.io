@@ -30,3 +30,4 @@ News
 
 * 7/2023: Our paper <strong>AWEsome-Cache</strong> is accepted by [IEEE ICNP 2023](https://icnp23.cs.ucr.edu)!
 * 12/2022: Our Paper <strong>H-Cache</strong> is accepted by [IEEE IPDPS 2023](https://www.ipdps.org/ipdps2023/)!
+* 12/2022: Our Paper <strong>Hawyeke</strong> is accepted by [IEEE INFOCOM 2023](https://infocom2023.ieee-infocom.org)!
