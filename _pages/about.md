@@ -20,7 +20,9 @@ I expect to graduate in June, 2024 and I am looking for a PostDoc position. Feel
 Research Interests
 ======
 
-
+* Machine Learning for Traffic Engineering: deep reinforcement learning, graph neural networks.
+* Programmable Switches: programmable data plane, in-network intelligence.
+* TCAM Rule Dependency: rule-caching, TCAM update. 
 
 A data-driven personal website
 ======
