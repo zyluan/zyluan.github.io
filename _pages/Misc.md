@@ -17,8 +17,8 @@ author_profile: true
 
 ## Experiences
 
-* Research Intern, Peng Cheng Laboratory, Shenzhen, China (2020-2024)
-* Exchange Program, Polytech Nice-Sophia, Nice, France (2016)
+* Research Intern, [Peng Cheng Laboratory (PCL)](https://www.pcl.ac.cn), Shenzhen, China (2020-2024)
+* Exchange Program, [Polytech Nice-Sophia](https://polytech.univ-cotedazur.fr), Nice, France (2016)
 
 ## Languages
 
