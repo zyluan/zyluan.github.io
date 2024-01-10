@@ -22,7 +22,7 @@ Research Interests
 
 * Machine Learning for Traffic Engineering
 * In-Network Intelligence with Programmable Data Plane
-* Rule Dependency in TCAM
+* TCAM Rule Caching System for SDN
 
   
 News
