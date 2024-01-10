@@ -22,6 +22,10 @@ author_profile: true
 
 
 
+* [Hawkeye: A Dynamic and Stateless Multicast Mechanism with Deep Reinforcement Learning](https://ieeexplore.ieee.org/document/10228869) \
+  Lie Lu, Qing Li, Dan Zhao, Yuan Yang, <strong>Zeyu Luan</strong>, Jianer Zhou, Yong Jiang, Mingwei Xu \
+  _In Proceedings of IEEE International Conference on Computer Communications (INFOCOM'23)_
+
   
 ## Workshop Paper
 * [SmartTE: Partially Deployed Segment Routing for Smart Traffic Engineering with Deep Reinforcement Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9472815) \
@@ -29,4 +33,9 @@ author_profile: true
   _In Proceedings of the 20th IFIP Networking Conference (IFIP Networking'21)_
   
 ## Ongoing Works
+
+* In-Network Traffic Engineering, submitted to CoNEXT'24 (first author)
+* Distributed In-Network Intelligence, submitted to CoNEXT'24 (co-author)
+* Multi-Domain Traffic Engineering, under revision by Computer Networks (first author)
+* MPTCP in VANET, under revision by ACM TAAS (first author)
 
