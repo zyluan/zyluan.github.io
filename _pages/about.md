@@ -25,4 +25,8 @@ Research Interests
 * Rule Dependency in TCAM
 
   
+News
+======
 
+* 7/2023: Our paper AWE-some Cache is accepted by [ICNP 2023](https://icnp23.cs.ucr.edu)!
+* 12/2022: Our Paper H-Cache is accepted by [IPDPS 2023](https://www.ipdps.org/ipdps2023/)!
