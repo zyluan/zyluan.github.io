@@ -22,9 +22,11 @@ author_profile: true
 
 
 
-
   
 ## Workshop Paper
-
+* [SmartTE: Partially Deployed Segment Routing for Smart Traffic Engineering with Deep Reinforcement Learning]
+  <strong>Zeyu Luan</strong>, Qing Li, Yong Jiang \
+  _In Proceedings of the 20th IFIP Networking Conference (IFIP Networking'21)_
+  
 ## Ongoing Works
 
