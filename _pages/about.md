@@ -12,17 +12,15 @@ My name is Zeyu Luan (栾泽宇). I am a Ph.D. candidate in Computer Science at 
 
 I am a member of [Smart Internet Group (SIG)](https://smartinternet.group) and a research intern at [Peng Cheng Laboratory (PCL)](https://www.pcl.ac.cn).
 
-My research interests inlucde Traffic Engineering (TE), Software-Defined Networking (SDN), Programmable Data Plane, and Machine Learning for Networking.
+I recieved the Bachelor's and Master's Degrees from [Tianjin University](http://www.tju.edu.cn) in 2015 and 2018, respectively.
 
-I recieved my Bachelor's and Master's Degrees from Tianjin University in 2015 and 2018, respectively.
-
-I am expected to be graduated in June, 2024 and look for a PostDoc position. Please download my [CV]().
+I expect to graduate in June, 2024 and I am looking for a PostDoc position. Feel free to contact me!.
 
 
-Publications
+Research Interests
 ======
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+
 
 A data-driven personal website
 ======
