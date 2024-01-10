@@ -31,7 +31,7 @@ author_profile: true
 * Python
 * PyTorch
 * P4
-* Ryu,Mininet
+* Ryu, Mininet
 * Gurobi
 
 
