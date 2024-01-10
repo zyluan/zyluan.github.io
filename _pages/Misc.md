@@ -24,7 +24,7 @@ author_profile: true
 
 * English: TOEFL (100), GRE (325)
 * French: B1
-# Mandarin: Native Speaker
+* Mandarin: Native Speaker
 
 ## Technical Skills
 
