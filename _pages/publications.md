@@ -16,6 +16,11 @@ author_profile: true
   <strong>Zeyu Luan</strong>, Qing Li, Yi Wang, Yong Jiang \
    _In Proceedings of the 37th IEEE International Parallel & Distributed Processing Symposium (IPDPS'23)_
 
+* [EPC-TE: Explicit Path Control in Traffic Engineering with Deep Reinforcement Learning](https://ieeexplore.ieee.org/document/9685792) \
+  <strong>Zeyu Luan</strong>, Lie Lu, Qing Li, Yong Jiang \
+  _In Proceedings of IEEE Global Communications Conference (GLOBECOM'21)_
+
+
 
 
   
