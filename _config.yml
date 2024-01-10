@@ -82,12 +82,12 @@ analytics:
 author:
   name             : # "Zeyu Luan"
   avatar           : "zeyuluan.png"
-  bio              : "C.S. Ph.D, Tsinghua University"
+  bio              : "Ph.D Candidate, Tsinghua University"
   location         : "Shenzhen, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    :  "https://scholar.google.com/citations?hl=en&user=CMKGTisAAAAJ"
-  email            :  "luke.zy.luan@gmail.com"
+  email            :  "thuzeyuluan@163.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
