@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-My name is Zeyu Luan. I am a Ph.D. student in Computer Science from Tsinghua University, advised by Professor Yong Jiang.
+My name is Zeyu Luan (栾泽宇). I am a Ph.D. candidate in Computer Science at [Tsinghua University](https://www.tsinghua.edu.cn/), advised by Professor [Yong Jiang](https://www.sigs.tsinghua.edu.cn/jy/main.htm) and Associate Researcher [Qing Li](https://smartinternet.group/qing/).
+
+I am a member of [Smart Internet Group (SIG)](https://smartinternet.group) and a research intern at [Peng Cheng Laboratory (PCL)](https://www.pcl.ac.cn).
 
 My research interests inlucde Traffic Engineering (TE), Software-Defined Networking (SDN), Programmable Data Plane, and Machine Learning for Networking.
 
