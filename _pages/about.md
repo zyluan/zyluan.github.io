@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-My name is Zeyu Luan (栾泽宇). I am a Ph.D. candidate in Computer Science at [Tsinghua University](https://www.tsinghua.edu.cn/), advised by Professor [Yong Jiang](https://www.sigs.tsinghua.edu.cn/jy/main.htm) and Associate Researcher [Qing Li](https://smartinternet.group/qing/).
+My name is Zeyu Luan (栾泽宇). I am a final-year Ph.D. candidate in Computer Science at [Tsinghua University](https://www.tsinghua.edu.cn/), advised by Professor [Yong Jiang](https://www.sigs.tsinghua.edu.cn/jy/main.htm) and Associate Researcher [Qing Li](https://smartinternet.group/qing/).
 
 I am a member of [Smart Internet Group (SIG)](https://smartinternet.group) and a research intern at [Peng Cheng Laboratory (PCL)](https://www.pcl.ac.cn).
 
-I recieved the Bachelor's and Master's Degrees from [Tianjin University](http://www.tju.edu.cn) in 2015 and 2018, respectively.
+I recieved the B.Eng and M.Eng Degrees from [Tianjin University](http://www.tju.edu.cn) in 2015 and 2018, respectively.
 
 I am looking for a PostDoc position now. Feel free to contact me!
 
