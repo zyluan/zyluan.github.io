@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 You can download my [CV](../files/Zeyu_Luan_CV_full_version.pdf) here.\
-(updated by Jan,2024). 
+(last updated on Jan 2024). 
