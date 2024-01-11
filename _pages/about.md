@@ -12,7 +12,7 @@ My name is Zeyu Luan (栾泽宇). I am a final-year Ph.D. candidate in Computer 
 
 I am a member of [Smart Internet Group (SIG)](https://smartinternet.group) and a research intern at [Peng Cheng Laboratory (PCL)](https://www.pcl.ac.cn).
 
-I recieved the B.Eng and M.Eng Degrees from [Tianjin University](http://www.tju.edu.cn) in 2015 and 2018, respectively.
+I received B.Eng/M.Eng in 2015/2018 from [Tianjin University](http://www.tju.edu.cn).
 
 I am looking for a PostDoc position now. Feel free to contact me!
 
