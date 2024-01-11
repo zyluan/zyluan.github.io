@@ -14,7 +14,7 @@ I am a member of [Smart Internet Group (SIG)](https://smartinternet.group) and a
 
 I received B.Eng/M.Eng in 2015/2018 from [Tianjin University](http://www.tju.edu.cn).
 
-I am looking for a PostDoc position now. Feel free to contact me!
+I am now looking for a PostDoc position. Please feel free to contact me!
 
 
 Research Interests
