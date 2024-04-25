@@ -5,7 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
-
+## Journal Article
+* [MATE: When Multi-Agent Deep Reinforcement Learning Meets Traffic Engineering in Multi-Domain Networks](https://www.sciencedirect.com/science/article/pii/S1389128624002317) \
+  <strong>Zeyu Luan</strong>, Qing Li, Yong Jiang, Jingpu Duan, Ruobin Zheng, Dingding Chen, Shaoteng Liu \
+  _Computer Networks, 2024_
+  
 
 ## Conference Paper
 * [AWEsome-Cache: Dependency-Free Rule-Caching for Arbitrary Wildcard Patterns in TCAM](https://ieeexplore.ieee.org/document/10355586) \
@@ -34,10 +38,5 @@ author_profile: true
   _In Proceedings of the 20th IFIP Networking Conference (IFIP Networking'21)_
 -->
   
-## Ongoing Works
 
-* In-Network Traffic Engineering, submitted to CoNEXT'24 (first author)
-* Distributed In-Network Intelligence, submitted to CoNEXT'24 (co-author)
-* Multi-Domain Traffic Engineering, under revision by Computer Networks (first author)
-* MPTCP in VANET, under revision by ACM TAAS (first author)
 
